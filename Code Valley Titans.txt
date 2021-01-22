@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1. Zindazed Kasauli. software himself
+=======
+1. Zindazed Kasauli. software himself waaaa... you lying!
+>>>>>>> ashraf
 2.ashraf the coder! messi of code!
