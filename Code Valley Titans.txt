@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1. Zindazed
 2. JUMA TWALIB
 3. yaaaaayyyyy
+=======
+1. Zindazed
+>>>>>>> parent of 48436d6... ricegit
