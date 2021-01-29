@@ -1,2 +1,19 @@
 1. Zindazed
-2.ashraf the coder! messi of code!
+<<<<<<< HEAD
+2. Bashir is now present
+=======
+2. JUMA TWALIB
+3. i shouldnt have deleted my branch, i should have just fixed it. point noted though
+3. Zindazed Kasauli. software himself waaaa... you lying!
+4. ashraf the coder! messi of code!
+5. ashraf zed reverted true version
+6. Bashir
+You know at first i thought using git was so hard! i have just come to realise that its soooo simple. Big up code valley!
+ ndowoza kiti nebwentema!
+
+<<<<<<< HEAD
+>>>>>>> 2af6be0730b73146408a4b4b0889bf43b5b6072d
+=======
+
+5.this is ashraf saying some thing.
+>>>>>>> 934c1f605088892ba37e0244f0d0e672234197b3
